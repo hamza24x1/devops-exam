@@ -1,0 +1,30 @@
+# Dependencies
+node_modules
+ 
+# Logs
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+ 
+# Git
+.git
+.gitignore
+ 
+# Tests
+tests
+ 
+# Build outputs
+dist
+build
+ 
+# Environment files
+.env
+.env.*.local
+ 
+# Docker files (optional safety)
+Dockerfile
+docker-compose.yml
+ 
+# OS files
+.DS_Store
+Thumbs.db
